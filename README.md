@@ -1,2 +1,2 @@
-This is the *Simple Chatty Bot (Java)* project I made myself.
+*Simple Chatty Bot (Java)*
 
