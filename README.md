@@ -1,2 +1,2 @@
-*Simple Chatty Bot (Java)*
+## Simple Chatty Bot
 
